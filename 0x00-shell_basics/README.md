@@ -1,3 +1,1 @@
-script that prints the absolute path na                                    
-
-me of the current working directory
+Task 1. What’s in there?
